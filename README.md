@@ -82,7 +82,7 @@ The stacking ensemble outperforms all individual models by learning to combine t
 ## Repository Structure
 
 ```
-├── comment_category_predictor.ipynb   # Full pipeline: EDA → features → models → stacking
+├── Comment-Category-Predict-Pipeline.ipynb   # Full pipeline: EDA → features → models → stacking
 └── README.md
 ```
 
